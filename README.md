@@ -24,3 +24,5 @@ Using technology:
 Written UC: https://docs.google.com/document/d/17Nm1ud7BIRSeqK4FKsIITv7aVjm8JZf9FB0Od7dV8dY/edit?usp=sharing
 
 Sequence Diagram: https://drive.google.com/drive/folders/1-n7_RPjZum4b_8M2HaK43vgJ9xV99n_b?usp=sharing
+
+Test Result: https://drive.google.com/drive/folders/1-P1iynfbyfR-W8xaQ87h-RtcgmD4K0Er?usp=sharing
