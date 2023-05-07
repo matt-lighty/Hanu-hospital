@@ -3,6 +3,7 @@
 
 Open Swagger UI with link while run backend: http://localhost:8085/swagger-ui.html
 
+Video Demo: https://youtu.be/yjbtUeXBj2A
 
 A project of Software Engineering 2 course:
 
