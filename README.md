@@ -26,3 +26,5 @@ Written UC: https://docs.google.com/document/d/17Nm1ud7BIRSeqK4FKsIITv7aVjm8JZf9
 Sequence Diagram: https://drive.google.com/drive/folders/1-n7_RPjZum4b_8M2HaK43vgJ9xV99n_b?usp=sharing
 
 Test Result: https://drive.google.com/drive/folders/1-P1iynfbyfR-W8xaQ87h-RtcgmD4K0Er?usp=sharing
+
+Since the code are quite complicate to hanlde, i will capture a video of me seting up the app (Link:  https://drive.google.com/drive/folders/1kBhC0sq89cg7pgMkL6ieLYT3f3ZwxHv2?usp=sharing) 
